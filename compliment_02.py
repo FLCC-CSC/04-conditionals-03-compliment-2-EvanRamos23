@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Evan Ramos 
+# DATE: February 27, 2026
+# BRIEF DESCRIPTION:  Writing a program for a compliment with a custom output 
 
 
 
@@ -15,11 +15,14 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+answer = input("Would you like a compliment? ")
 
+if answer == "yes":
+    print("you have wonderful eyes")
 
-
-
-
+    print("thank you for playing")
+else: 
+    print("No compliment for you!")
 
 
 
@@ -70,7 +73,7 @@ Thank you for playing.
 '''
 
 1. Did you struggle with this lab (YES/NO)?
-
+No, but i did often forget to include my quotations and colons in the proper positions. 
 
 
 
